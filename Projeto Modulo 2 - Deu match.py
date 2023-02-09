@@ -24,11 +24,11 @@
 import os
 os.system("cls")
 i= []
-notas = ["Candidato1","Candidato2","Candidato3","Candidato4"]
-entrevista = [6,3,5,8]
-teorica = [6,3,4,6]
-pratica = [8,6,7,10]
-softskill = [8,5,8,7]
+notas = ["Candidato1","Candidato2","Candidato3","Candidato4"] #Lista com os candidatos.
+entrevista = [6,3,5,8] #Lista com as notas.
+teorica = [6,3,4,6] #Lista com as notas.
+pratica = [8,6,7,10] #Lista com as notas.
+softskill = [8,5,8,7] #Lista com as notas.
 opcao=(1)
 
 def menu(): #Menu Principal
