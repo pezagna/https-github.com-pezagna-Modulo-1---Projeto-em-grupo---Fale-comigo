@@ -14,8 +14,17 @@ eX_tX_pX_sX (sendo que cada X é substituído pela avaliação da pessoa em
 uma das etapas do processo - entrevista, teste teórico, teste prático e
 avaliação de soft skills).
 
-Como funciona:
+O que é para fazer?
 
+Criar com Python uma lista para armazenar esses resultados
+(e outros resultados que quiser no mesmo formato, o código
+precisa funcionar para qualquer lista que seja inserida nesse
+formato) e depois uma função que busca o candidato de
+acordo com os critérios digitados pelo usuário.
+
+
+Como funciona:
+  
   Ao executar o código, a aplicação será apresentada para o usuário em forma de menu na qual, ele irá navegar por opções e com o teclado, irá inserir a opção desejada.
   
 
